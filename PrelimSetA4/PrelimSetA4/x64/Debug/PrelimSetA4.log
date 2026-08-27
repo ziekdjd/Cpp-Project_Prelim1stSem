@@ -1,0 +1,3 @@
+﻿  PrelimSetA4.cpp
+C:\Users\Student\Documents\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA4\PrelimSetA4\PrelimSetA4.cpp(37,1): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  PrelimSetA4.vcxproj -> C:\Users\Student\Documents\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA4\x64\Debug\PrelimSetA4.exe
