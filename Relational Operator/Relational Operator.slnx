@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Relational Operator/Relational Operator.vcxproj" Id="6f8957c1-1201-42db-98cd-f702e35e9264" />
+</Solution>
