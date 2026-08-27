@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PrelimSetA3/PrelimSetA3.vcxproj" Id="a5d11cca-5ed5-4f86-b20e-8a94c93fbec5" />
+</Solution>

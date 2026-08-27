@@ -1,0 +1,6 @@
+﻿  PrelimSetA3.cpp
+C:\Users\Student\Documents\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA3\PrelimSetA3\PrelimSetA3.cpp(20,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Student\Documents\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA3\PrelimSetA3\PrelimSetA3.cpp(25,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Student\Documents\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA3\PrelimSetA3\PrelimSetA3.cpp(30,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Student\Documents\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA3\PrelimSetA3\PrelimSetA3.cpp(43,1): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  PrelimSetA3.vcxproj -> C:\Users\Student\Documents\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA3\x64\Debug\PrelimSetA3.exe
