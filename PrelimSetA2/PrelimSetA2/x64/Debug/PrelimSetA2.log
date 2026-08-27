@@ -1,0 +1,4 @@
+﻿  PrelimSetA2.cpp
+D:\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA2\PrelimSetA2\PrelimSetA2.cpp(15,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA2\PrelimSetA2\PrelimSetA2.cpp(7,6): warning C4101: 'rate': unreferenced local variable
+  PrelimSetA2.vcxproj -> D:\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA2\x64\Debug\PrelimSetA2.exe
