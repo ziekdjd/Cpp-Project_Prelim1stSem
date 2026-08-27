@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SwitchUsingInt/SwitchUsingInt.vcxproj" Id="31776d6d-1b6c-40a4-b252-241be38b349b" />
+</Solution>
