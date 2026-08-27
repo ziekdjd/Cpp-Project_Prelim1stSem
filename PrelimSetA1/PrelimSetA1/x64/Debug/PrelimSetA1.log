@@ -1,0 +1,6 @@
+﻿  PrelimSetA1.cpp
+D:\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA1\PrelimSetA1\PrelimSetA1.cpp(13,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA1\PrelimSetA1\PrelimSetA1.cpp(17,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA1\PrelimSetA1\PrelimSetA1.cpp(22,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA1\PrelimSetA1\PrelimSetA1.cpp(26,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PrelimSetA1.vcxproj -> D:\Derilo, Ged Ezikiel D\C++\1 Prelim\PrelimSetA1\x64\Debug\PrelimSetA1.exe
